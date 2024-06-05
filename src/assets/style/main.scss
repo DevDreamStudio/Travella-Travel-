@@ -1,0 +1,12 @@
+@import './theme.css', './reset.css', './common.scss';
+
+.container {
+  width: 100%;
+  padding: 0 15px;
+  margin: 0 auto;
+  max-width: 1326px;
+}
+
+body{
+  background: var(--bodyBg);
+}
